@@ -28,6 +28,7 @@ const Products = () => {
             <p>Price: {item.price} / 20% OFF!</p>
             <p>Rating: {item.rating.rate}</p>
           </div>
+          <button>Comprar!</button>
         </div>
       ))}
     </div>
